@@ -23,7 +23,7 @@ export const Default: React.FC = () => {
       </BreadCrumbs>
       <BreadCrumbs>
         <Text>OsingSwap</Text>
-        <Text>The emerging Automated market maker on binance smart chain & Sustainable digital asset with colorful of Decentralized application.</Text>
+        <Text>The Emerging Automated Market Maker on Binance Smart Chain & Sustainable Digital Asset with Colorful of Decentralized Application.</Text>
       </BreadCrumbs>
     </Text>
   );
