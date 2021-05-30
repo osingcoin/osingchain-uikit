@@ -22,7 +22,7 @@ export const Default: React.FC = () => {
         <Text color="textDisabled">Crumb 2</Text>
       </BreadCrumbs>
       <BreadCrumbs>
-        <Text>PantherSwap</Text>
+        <Text>OsingSwap</Text>
         <Text>The emerging Automated market maker on binance smart chain & Sustainable digital asset with colorful of Decentralized application.</Text>
       </BreadCrumbs>
     </Text>
